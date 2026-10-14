@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse - Wi-Fi & SIM Data Monitor",
+  "description": "Real-time Wi-Fi and Cellular SIM data usage monitor with live speed metering, customizable data caps, instant surge and limit notifications, and comprehensive monthly billing reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
